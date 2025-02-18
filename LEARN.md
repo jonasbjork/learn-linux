@@ -5,18 +5,18 @@
   Linux has hundreds of commands, there are only about a dozen you need to know to perform most basic tasks.
 - [Hackerrank](https://www.hackerrank.com/domains/shell)
 - [Linuxize](https://linuxize.com/)
-- [https://www.fosslinux.com/](FOSS Linux)
-- [https://www.webminal.org/](Webminal)
-- [https://linuxcommand.org/lc3_learning_the_shell.php](Learning the Shell)
-- [https://linuxopsys.com/](Linux OPSys)
-- [https://developer.ibm.com/technologies/linux/](IBM Developer - Linux)
-- [https://vim-adventures.com/](VIM Adventures)
+- [FOSS Linux](https://www.fosslinux.com/)
+- [Webminal](https://www.webminal.org/)
+- [Learning the Shell](https://linuxcommand.org/lc3_learning_the_shell.php)
+- [Linux OPSys](https://linuxopsys.com/)
+- [IBM Developer - Linux](https://developer.ibm.com/technologies/linux/)
+- [VIM Adventures](https://vim-adventures.com/)
     
 ## Security
 
-- The wargames offered by the [https://overthewire.org/wargames/](overthewire.org) community can help
+- The wargames offered by the [Over The Wire](https://overthewire.org/wargames/) community can help
   you to learn and practice security concepts in the form of fun-filled games.
-- [https://picoctf.org/](picoCTF) gamifies learning hacking with capture-the-flag puzzles created by
+- [picoCTF](https://picoctf.org/) gamifies learning hacking with capture-the-flag puzzles created by
   trusted computer security and privacy experts at Carnegie Mellon University.
 
 
