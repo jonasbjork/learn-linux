@@ -1,10 +1,10 @@
 # Learn Linux
 
 ## Linux
-- [https://linuxsurvival.com/](Linux Survival) is a free tutorial designed to make it as easy as possible to learn Linux. Even though
+- [Linux Survival](https://linuxsurvival.com/) is a free tutorial designed to make it as easy as possible to learn Linux. Even though
   Linux has hundreds of commands, there are only about a dozen you need to know to perform most basic tasks.
-- [https://www.hackerrank.com/domains/shell](Hackerrank)
-- [https://linuxize.com/](Linuxize)
+- [Hackerrank](https://www.hackerrank.com/domains/shell)
+- [Linuxize](https://linuxize.com/)
 - [https://www.fosslinux.com/](FOSS Linux)
 - [https://www.webminal.org/](Webminal)
 - [https://linuxcommand.org/lc3_learning_the_shell.php](Learning the Shell)
